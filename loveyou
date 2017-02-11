@@ -1,1 +1,4 @@
 何以笙箫默
+		var iny2=document.getElementById('iny2').value;
+		var inn2=document.getElementById('inn2').value;
+		var inm2=document.getElementById('inm2').value;
